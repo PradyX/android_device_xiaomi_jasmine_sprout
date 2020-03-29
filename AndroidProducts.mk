@@ -23,9 +23,9 @@
 
 # inherit MI A2 lineage device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_jasmine_sprout.mk
+    $(LOCAL_DIR)/potato_jasmine_sprout.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_jasmine_sprout-eng \
-    derp_jasmine_sprout-userdebug \
-		derp_jasmine_sprout-eng
+    potato_jasmine_sprout-eng \
+    potato_jasmine_sprout-userdebug \
+		potato_jasmine_sprout-eng
